@@ -34,11 +34,6 @@ link: http://amzn-s3-grishma.s3-website-us-east-1.amazonaws.com/
 - **Compatibility Intelligence Engine** — an interactive matrix highlighting recipient/donor compatibility rules for critical dispatch decisions.
 - **Emergency Priority Alerts** — automated detection flags critical shortages in Universal Donors (O-).
 
-### 🗺️ 2. Regional Geo-Knowledge Network (`Geo Graph`)
-- **Interactive Knowledge Topology** — a visual SVG hub-and-spoke node canvas showing logistics connections between the Central Supply Base and regional city hubs (`Lalitpur`, `Chennai`, etc.).
-- **Node Telemetry Inspector** — clickable regional node cards with **Dispatch Readiness Scores (0–100%)**, universal donor availability tags, and blood type inventories.
-- **Instant Type Filtering** — filter network nodes by specific blood groups with a single click.
-
 ### 📋 3. Donor Management Registry
 - **Instant Search & Filter** — search donors by Name, Donor ID, Phone Number, or City Hub.
 - **Full CRUD Operations**:
