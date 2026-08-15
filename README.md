@@ -22,6 +22,8 @@
 
 **BloodPulse** (HaemoGrid) is a clinical healthcare management web application engineered for regional blood banks, hospitals, and emergency dispatch centers. Built with **React**, **Vite**, and connected to a live **AWS API Gateway** serverless backend, BloodPulse delivers high-contrast visual telemetry, live blood group compatibility intelligence, and interactive geographic network inspection — giving coordinators a single pane of glass over an entire region's blood supply.
 
+link: http://amzn-s3-grishma.s3-website-us-east-1.amazonaws.com/
+
 ---
 
 ## ✨ Key Features
